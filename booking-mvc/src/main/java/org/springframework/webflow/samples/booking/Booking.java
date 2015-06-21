@@ -24,6 +24,7 @@ import org.springframework.format.annotation.DateTimeFormat;
 
 /**
  * A Hotel Booking made by a User.
+ * This is modified by VD
  */
 @Entity
 @BookingDateRange

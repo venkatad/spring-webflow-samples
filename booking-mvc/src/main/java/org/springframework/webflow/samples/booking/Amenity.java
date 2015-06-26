@@ -7,3 +7,4 @@ public enum Amenity {
    //test2 jenkins 2
     //test3 //jenkins3
 }
+private int tewst;

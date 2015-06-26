@@ -5,4 +5,5 @@ public enum Amenity {
     //test test
     //test to check jenkins run
    //test2 jenkins 2
+    //test3 //jenkins3
 }
